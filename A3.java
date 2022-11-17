@@ -18,9 +18,11 @@ public class EcoRecicle {
         System.out.println(" Senha: ");
     }
     public void registro(){
-        System.out.println(" Nome: ");
+        System.out.println(" Primeiro Nome: ");
         System.out.println(" Sobrenome: ");
         System.out.println(" Email: ");
         System.out.println(" Senha: ");
+        System.out.println(" Confirme sua senha: ");
+        
     }
 }
