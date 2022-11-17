@@ -8,7 +8,7 @@ public class EcoRecicle {
     public int horariodaColeta;
     public int datadaColeta;
     
-    public void inicio() { 
+    public void home() { 
         System.out.println(" Bem vindo ao EcoRecicle ");
         System.out.println(" Crie seu ponto de coleta ");
         System.out.println(" Encontre um ponto de coleta ");
